@@ -1,6 +1,8 @@
 ## Hi 👋
 
-Axuu. Web developer. Beijing, China.
+I'm axuu. 
+🇨🇳 BNU / 🏴󠁧󠁢󠁳󠁣󠁴󠁿 UOE / Web developer / Beijing, China
+Every moment matters.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -17,4 +19,5 @@ Axuu. Web developer. Beijing, China.
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-* Currently into workout [我的健身记录](https://www.fredz.cn/workout)
+* [Email Me](mailto:zhangxu.fred@gmail.com)
+* [我的健身记录](https://www.fredz.cn/workout)
