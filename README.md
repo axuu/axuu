@@ -2,7 +2,9 @@
 
 I'm axuu. 
 
-🇨🇳 BNU / 🏴󠁧󠁢󠁳󠁣󠁴󠁿 UOE / Web developer
+🇨🇳 BNU / 🏴󠁧󠁢󠁳󠁣󠁴󠁿 UOE
+
+Web developer 💛 / Learning Python 🐍 / Self-taught 👨🏻‍💻 
 
 Every moment matters.
 
