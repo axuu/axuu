@@ -2,9 +2,9 @@
 
 I'm axuu. 
 
-🇨🇳 BNU / 🏴󠁧󠁢󠁳󠁣󠁴󠁿 UOE
+🇨🇳 BNU / 🏴󠁧󠁢󠁳󠁣󠁴󠁿 UOE / Web developer 💛 / Amateur photographer 📸 / Kop ⚽️
 
-Web developer 💛 / Learning Python 🐍 / Self-taught 👨🏻‍💻 
+Self-taught 👨🏻‍💻 / Learning Python 🐍
 
 Every moment matters.
 
