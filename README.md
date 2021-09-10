@@ -23,8 +23,8 @@ Every moment matters.
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-[我的主页](https://www.fredz.cn/)
+[主页](https://www.fredz.cn/)
 
-[我的健身记录](https://www.fredz.cn/workout)
+[健身记录](https://www.fredz.cn/workout)
 
 [Email Me](mailto:zhangxu.fred@gmail.com)
