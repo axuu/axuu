@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I'm axuu. 
+I'm axu. 
 
 🇨🇳 BNU / 🏴󠁧󠁢󠁳󠁣󠁴󠁿 UOE / Web developer 💛
 
