@@ -2,9 +2,9 @@
 
 I'm axu. 
 
-🇨🇳 BNU / 🏴󠁧󠁢󠁳󠁣󠁴󠁿 UOE / Web developer 💛
+🇨🇳 BNU / 🏴󠁧󠁢󠁳󠁣󠁴󠁿 UOE 
 
-Self-taught 👨🏻‍💻 / Learning Python 🐍 / Amateur photographer 📸 / Kop ⚽️
+Self-taught web developer 👨🏻‍💻💛 / Amateur photographer 📸 / Kop ⚽️
 
 Every moment matters.
 
@@ -23,8 +23,6 @@ Every moment matters.
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-[主页](https://www.fredz.cn/)
-
-[健身记录](https://www.fredz.cn/workout)
-
-[Email Me](mailto:zhangxu.fred@gmail.com)
+* [Homepage](https://www.fredz.cn/)
+* [Gym Record](https://www.fredz.cn/workout)
+* [Email Me](mailto:zhangxu.fred@gmail.com)
