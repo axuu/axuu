@@ -1,7 +1,5 @@
 ## Hi 👋
 
-I'm axu. 
-
 🇨🇳 BNU / 🏴󠁧󠁢󠁳󠁣󠁴󠁿 UOE 
 
 Self-taught web developer 👨🏻‍💻💛 / Amateur photographer 📸 / Kop ⚽️
