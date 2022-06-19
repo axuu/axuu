@@ -1,8 +1,4 @@
-## Hi 👋
-
-🇨🇳 BNU / 🏴󠁧󠁢󠁳󠁣󠁴󠁿 UOE 
-
-Self-taught web developer 👨🏻‍💻💛 / Amateur photographer 📸 / Kop ⚽️
+## Hi, I'm Axu 👋
 
 Every moment matters.
 
