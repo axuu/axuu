@@ -26,6 +26,5 @@ Every moment matters.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black)
 
-![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=axuu&theme=vue)
-![profile-details](https://github-readme-stats.vercel.app/api/top-langs/?username=axuu)
+![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=axuu&theme=github)
 
