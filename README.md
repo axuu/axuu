@@ -25,3 +25,5 @@ Every moment matters.
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black)
+
+![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=axuu&theme=vue)
