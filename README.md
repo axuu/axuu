@@ -6,7 +6,7 @@ Every moment matters.
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
