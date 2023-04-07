@@ -26,5 +26,12 @@ Every moment matters.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black)
 
-![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=axuu&theme=github)
+### My Works 🎁
 
+<p>
+  <a href="https://chat.magua.app"><img src="./imgs/muggle-box.png" width=48% alt="麻瓜盒子 Muggle Box - 简洁优雅的 ChatGPT 客户端"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://clover.baa.is"><img src="./imgs/clover.png" width=48% alt="Clover - 集成 Fair Lauch 的 NFT 发行平台"></a>
+</p>
+
+![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=axuu&theme=github)
