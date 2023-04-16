@@ -35,6 +35,8 @@ Every moment matters. 🎁
 </p>
 <p>
   <a href="https://station.baa.is"><img src="./imgs/ubik-station.png" width=48% alt="Ubik Station - Solana NFT 应用平台"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://baa.is"><img src="./imgs/soulmate.png" width=48% alt="Soulmate - Solana 钱包管理与 Mint 工具"></a>
 </p>
 
 ![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=axuu&theme=github)
