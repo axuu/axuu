@@ -39,4 +39,4 @@ Every moment matters. 🎁
   <a href="https://baa.is"><img src="./imgs/soulmate.png" width=48% alt="Soulmate - Solana 钱包管理与 Mint 工具"></a>
 </p>
 
-![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=axuu&theme=github)
+![Axuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=axuu&show_icons=true&theme=transparent)
