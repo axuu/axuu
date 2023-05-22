@@ -42,4 +42,5 @@ Every moment matters. 🎁
   <a href="https://station.baa.is" target="_blank"><img src="./imgs/hades-assistant.png" width=48% alt="哈迪斯助手 - Hades 游戏数据库"></a>
 </p>
 
-![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=axuu&theme=github)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=axuu)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=axuu&utcOffset=+8)
