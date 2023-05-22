@@ -38,5 +38,8 @@ Every moment matters. 🎁
   &nbsp;&nbsp;&nbsp;
   <a href="https://baa.is"><img src="./imgs/soulmate.png" width=48% alt="Soulmate - Solana 钱包管理与 Mint 工具"></a>
 </p>
+<p>
+  <a href="https://station.baa.is" target="_blank"><img src="./imgs/hades-assistant.png" width=48% alt="哈迪斯助手 - Hades 游戏数据库"></a>
+</p>
 
 ![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=axuu&theme=github)
