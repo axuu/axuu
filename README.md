@@ -40,6 +40,7 @@ Every moment matters. 🎁
 </p>
 <p>
   <a href="https://raw.githubusercontent.com/axuu/axuu/main/imgs/hades-qrcode.png" target="_blank"><img src="./imgs/hades-assistant.png" width=44% alt="哈迪斯助手 - Hades 游戏数据库"></a>
+  <a href="https://raw.githubusercontent.com/axuu/axuu/main/imgs/tide-qrcode.png" target="_blank"><img src="./imgs/tide.png" width=44% alt="朝暮 - 二手演出票务流转平台"></a>
 </p>
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=axuu)
