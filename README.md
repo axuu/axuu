@@ -29,7 +29,7 @@ Every moment matters. 🎁
 ### My Works 🌠
 
 <p>
-  <a href="https://chat.magua.app"><img src="./imgs/muggle-box.png" width=44% alt="麻瓜盒子 Muggle Box - 简洁优雅的 ChatGPT 客户端"></a>
+  <a href="https://chat.fredz.cn"><img src="./imgs/muggle-box.png" width=44% alt="麻瓜盒子 Muggle Box - 简洁优雅的 ChatGPT 客户端"></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://clover.baa.is"><img src="./imgs/clover.png" width=44% alt="Clover - 集成 Fair Lauch 的 NFT 发行平台"></a>
 </p>
