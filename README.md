@@ -29,14 +29,14 @@ Every moment matters. 🎁
 ### My Works 🌠
 
 <p>
-  <a href="https://chat.fredz.cn"><img src="./imgs/muggle-box.png" width=44% alt="麻瓜盒子 Muggle Box - 简洁优雅的 ChatGPT 客户端"></a>
+  <img src="./imgs/muggle-box.png" width=44% alt="麻瓜盒子 Muggle Box - 简洁优雅的 ChatGPT 客户端">
   &nbsp;&nbsp;&nbsp;
   <a href="https://clover.baa.is"><img src="./imgs/clover.png" width=44% alt="Clover - 集成 Fair Lauch 的 NFT 发行平台"></a>
 </p>
 <p>
-  <a href="https://station.baa.is"><img src="./imgs/ubik-station.png" width=44% alt="Ubik Station - Solana NFT 应用平台"></a>
+  <img src="./imgs/ubik-station.png" width=44% alt="U Station - Solana NFT 应用平台">
   &nbsp;&nbsp;&nbsp;
-  <a href="https://baa.is"><img src="./imgs/soulmate.png" width=44% alt="Soulmate - Solana 钱包管理与 Mint 工具"></a>
+  <img src="./imgs/soulmate.png" width=44% alt="Soulmate - Solana 钱包管理与 Mint 工具">
 </p>
 <p>
   <a href="https://raw.githubusercontent.com/axuu/axuu/main/imgs/hades-qrcode.png" target="_blank"><img src="./imgs/hades-assistant.png" width=44% alt="哈迪斯助手 - Hades 游戏数据库"></a>
