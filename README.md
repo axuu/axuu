@@ -20,11 +20,12 @@ Every moment matters. 🎁
 ### My Works 🌠
 
 <p>
-  <a href="https://hades.magua.app" target="_blank"><img src="./imgs/hades-assistant.png" width=33% alt="哈迪斯助手 - Hades 游戏数据库"></a>
+  <a href="https://hades.magua.app" target="_blank"><img src="./imgs/hades-helper.png" width=33% alt="哈迪斯助手 - Hades 游戏数据库"></a>
   &nbsp;&nbsp;&nbsp;
 </p>
 
 ### Archived Works 💀️
+
 <p>
   <img src="./imgs/soulmate.png" width=20% alt="Soulmate - Solana 钱包管理与 Mint 工具">
   <img src="./imgs/muggle-box.png" width=20% alt="麻瓜盒子 Muggle Box - 简洁优雅的 ChatGPT 客户端">
